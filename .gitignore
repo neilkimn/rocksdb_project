@@ -4,4 +4,4 @@ scalability/**/*.data
 scalability/**/*.log
 scalability/**/*.svg
 scalability/**/*.txt
-scalability/1000000_keys/.gitkeep
+scalability_old
